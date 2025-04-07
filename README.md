@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Furqan Javed 👋
 
 I'm a front-end developer passionate about creating interactive and user-friendly web applications with React. I focus on writing clean, maintainable code and building responsive designs that provide seamless user experiences. I enjoy solving challenges, learning new technologies, and continuously improving my skills.
 
