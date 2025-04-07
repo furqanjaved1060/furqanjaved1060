@@ -7,5 +7,3 @@ Feel free to explore my projects and connect with me.
 Tech Stack:
 
 ![html-5](https://github.com/user-attachments/assets/a3450eb8-3dff-48ca-b7c2-86b5cf146b73)   ![css-3](https://github.com/user-attachments/assets/3f929ba3-bf78-4c24-b8fd-56b7563016f1)   ![js](https://github.com/user-attachments/assets/fc805c02-bf4a-415e-b46d-98e4472a1ff2)   ![React](https://github.com/user-attachments/assets/d60117b7-5255-4fe0-b89f-eb680a8f828f)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furqanjaved1060&show_icons=true&locale=en&layout=compact" alt="furqanjaved1060" /></p>
