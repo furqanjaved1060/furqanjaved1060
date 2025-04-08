@@ -11,4 +11,4 @@ Feel free to explore my projects and connect with me.
 ![js](https://github.com/user-attachments/assets/fc805c02-bf4a-415e-b46d-98e4472a1ff2) 
 ![React](https://github.com/user-attachments/assets/d60117b7-5255-4fe0-b89f-eb680a8f828f)
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs?username=furqanjaved1060&show_icons=true&locale=en&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs?username=furqanjaved1060&show_icons=true&locale=en&layout=compact)
