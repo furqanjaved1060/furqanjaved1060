@@ -10,9 +10,10 @@ Feel free to explore my projects and connect with me.
 ![css-3](https://github.com/user-attachments/assets/3f929ba3-bf78-4c24-b8fd-56b7563016f1) 
 ![js](https://github.com/user-attachments/assets/fc805c02-bf4a-415e-b46d-98e4472a1ff2)  
 ![React](https://github.com/user-attachments/assets/d60117b7-5255-4fe0-b89f-eb680a8f828f)
-![Redux](https://github.com/user-attachments/assets/591d0a7d-eac3-4c37-ad91-d5cd9d7ccd0e)
+![Redux](https://github.com/user-attachments/assets/b5fd64ff-6ad3-4ea3-a5bb-acebfe1dafe9)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furqanjaved1060&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
 
