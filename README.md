@@ -11,7 +11,6 @@ Feel free to explore my projects and connect with me.
 ![js](https://github.com/user-attachments/assets/fc805c02-bf4a-415e-b46d-98e4472a1ff2)  
 ![React](https://github.com/user-attachments/assets/d60117b7-5255-4fe0-b89f-eb680a8f828f)
 ![Redux](https://github.com/user-attachments/assets/b5fd64ff-6ad3-4ea3-a5bb-acebfe1dafe9)
-![react-router-svgrepo-com (Copy)(1)](https://github.com/user-attachments/assets/fe7e0190-a419-49bd-8397-08c76108b042)
 ![React-Router](https://github.com/user-attachments/assets/bec634cd-23bf-409b-a574-af79cc2ddaf6)
 
 <div align="left">
