@@ -12,11 +12,8 @@ Feel free to explore my projects and connect with me.
 ![React](https://github.com/user-attachments/assets/d60117b7-5255-4fe0-b89f-eb680a8f828f)
 ![React-Router](https://github.com/user-attachments/assets/bec634cd-23bf-409b-a574-af79cc2ddaf6)
 ![Redux](https://github.com/user-attachments/assets/b5fd64ff-6ad3-4ea3-a5bb-acebfe1dafe9)
+![formik](https://github.com/user-attachments/assets/257cb510-bd49-4a19-98aa-b0c980e5af28)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furqanjaved1060&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-
-
-
