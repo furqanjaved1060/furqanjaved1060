@@ -17,3 +17,4 @@ Feel free to explore my projects and connect with me.
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furqanjaved1060&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+![tailwind-css](https://github.com/user-attachments/assets/6981f2b6-062d-4f70-a916-74e5f36f3f08)
