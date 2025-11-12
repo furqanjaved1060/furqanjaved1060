@@ -13,7 +13,7 @@ Feel free to explore my projects and connect with me.
 ![React](https://github.com/user-attachments/assets/d60117b7-5255-4fe0-b89f-eb680a8f828f) 
 <img width="32" height="32" alt="NextJS" src="https://github.com/user-attachments/assets/b13c0af3-d908-4451-84b1-71ac8660713a" /> 
 ![tailwindcss](https://github.com/user-attachments/assets/cde142fc-a153-4c0f-a489-82bf1b50f964) 
-<img width="600" height="600" alt="Shadcn" src="https://github.com/user-attachments/assets/0156d90b-7929-4e79-bc46-0529d1fa0c8b" />  
+<img width="32" height="32" alt="Shadcn" src="https://github.com/user-attachments/assets/0156d90b-7929-4e79-bc46-0529d1fa0c8b" />  
 ![Redux](https://github.com/user-attachments/assets/b5fd64ff-6ad3-4ea3-a5bb-acebfe1dafe9) 
 <img width="32" height="32" alt="Zustand" src="https://github.com/user-attachments/assets/b23e9fc4-7fd2-4192-a361-81cfc10a12f2" /> 
 ![formik](https://github.com/user-attachments/assets/257cb510-bd49-4a19-98aa-b0c980e5af28) 
