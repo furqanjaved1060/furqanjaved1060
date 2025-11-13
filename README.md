@@ -22,33 +22,49 @@ Feel free to explore my projects and connect with me.
 <img width="32" height="32" alt="React Hook Form" src="https://github.com/user-attachments/assets/9c075b6f-674d-40ee-94a0-ab9ed2f9bc59" /> 
 <img width="32" height="32" alt="Tanstack Query" src="https://github.com/user-attachments/assets/97e6cfdc-35ad-4ec8-9a5b-6fa95bc37195" /> 
 
----
+## Collaborative Projects:
 
-## 🚀 Collaborative Projects
-
-### 🧠 [CreativeHub](https://github.com/username/creativehub)
+### 📖 [TutorHub](https://github.com/Zweidevs2020/tutor-hub-frontend)
 **Role:** Front-End Developer  
-**Tech Stack:** ReactJS, Next.js, Tailwind CSS, Zustand  
+**Tech Stack:** ReactJS, Next.js, Tailwind CSS, Radix UI, Redux, React Hook Form  
 - Built responsive layouts and component architecture.  
-- Integrated API calls with React Query.  
+- Integrated API calls.  
 - Contributed to performance optimization and code refactoring.
+  
+**Live Demo:** [TutorHub](https://testing.asadtutor.com/)
+  
+---
+
+### 💬 [DaraChatbot](https://github.com/Zweidevs2020/dara-chatbot-frontend)
+**Role:** Front-End Developer  
+**Tech Stack:** ReactJS, Next.js, Tailwind CSS, Zustand, React Hook Form, Tanstack Query  
+- Built responsive layouts and component architecture.  
+- Integrated API calls with Tanstack Query.  
+- Contributed to performance optimization.
+  
+**Live Demo:** [DaraChatbot](https://itsdara.com/)
+  
+---
+
+### 🎧 [Somedaycame-AdminPanel](https://github.com/Zweidevs2020/rethinkology-admin-panel-web-app)
+**Role:** Front-End Developer  
+**Tech Stack:** ReactJS, Next.js, Tailwind CSS, Shadcn UI, Zustand, React Hook Form, Tanstack Query   
+- Built responsive layouts and component architecture.  
+- Integrated API calls with Tanstack Query.  
+- Contributed to performance optimization.
+  
+**Live Demo:** [Somedaycame-AdminPanel](https://develop.d1yntz4drwgvvb.amplifyapp.com)
 
 ---
 
-### 🎧 [SoundSphere](https://github.com/orgname/soundsphere)
-**Role:** UI Developer  
-**Tech Stack:** React, TypeScript, Shadcn UI, Framer Motion  
-- Designed reusable UI components.  
-- Enhanced accessibility and animations.  
-- Collaborated with backend team for seamless integration.
-
----
-
-### 💼 [Taskify](https://github.com/orgname/taskify)
-**Role:** Front-End Collaborator  
-**Tech Stack:** Next.js, Tailwind CSS, React Hook Form  
-- Created dashboard pages with form validation and state management.  
-- Worked on dark/light mode implementation.
+### 🏥 [Foregenomics](https://github.com/foregenomics/foregenomics-frontend)
+**Role:** Front-End Developer  
+**Tech Stack:** ReactJS, Next.js, Tailwind CSS, Zustand, Tanstack Query   
+- Built responsive layouts and component architecture.  
+- Integrated API calls with Tanstack Query.  
+- Contributed to performance optimization.
+  
+**Live Demo:** [Foregenomics](https://app-dev.foregenomics.com/)
 
 ---
 
