@@ -12,7 +12,7 @@ Feel free to explore my projects and connect with me.
 <img width="32" height="32" alt="Typescript" src="https://github.com/user-attachments/assets/238de2cf-ae89-45ef-9b41-c6d0c5955ec3" />  
 
 ![React](https://github.com/user-attachments/assets/d60117b7-5255-4fe0-b89f-eb680a8f828f) 
-![nextjs](https://github.com/user-attachments/assets/44d27357-8b41-4b26-8d07-4f857c59d3f0)
+<img width="32" height="32" alt="Shadcn" src="https://github.com/user-attachments/assets/44d27357-8b41-4b26-8d07-4f857c59d3f0" /> 
 ![tailwindcss](https://github.com/user-attachments/assets/cde142fc-a153-4c0f-a489-82bf1b50f964) 
 <img width="32" height="32" alt="Shadcn" src="https://github.com/user-attachments/assets/0156d90b-7929-4e79-bc46-0529d1fa0c8b" />  
 
