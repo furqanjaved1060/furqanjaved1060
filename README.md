@@ -22,6 +22,35 @@ Feel free to explore my projects and connect with me.
 <img width="32" height="32" alt="React Hook Form" src="https://github.com/user-attachments/assets/9c075b6f-674d-40ee-94a0-ab9ed2f9bc59" /> 
 <img width="32" height="32" alt="Tanstack Query" src="https://github.com/user-attachments/assets/97e6cfdc-35ad-4ec8-9a5b-6fa95bc37195" /> 
 
+---
+
+## 🚀 Collaborative Projects
+
+### 🧠 [CreativeHub](https://github.com/username/creativehub)
+**Role:** Front-End Developer  
+**Tech Stack:** ReactJS, Next.js, Tailwind CSS, Zustand  
+- Built responsive layouts and component architecture.  
+- Integrated API calls with React Query.  
+- Contributed to performance optimization and code refactoring.
+
+---
+
+### 🎧 [SoundSphere](https://github.com/orgname/soundsphere)
+**Role:** UI Developer  
+**Tech Stack:** React, TypeScript, Shadcn UI, Framer Motion  
+- Designed reusable UI components.  
+- Enhanced accessibility and animations.  
+- Collaborated with backend team for seamless integration.
+
+---
+
+### 💼 [Taskify](https://github.com/orgname/taskify)
+**Role:** Front-End Collaborator  
+**Tech Stack:** Next.js, Tailwind CSS, React Hook Form  
+- Created dashboard pages with form validation and state management.  
+- Worked on dark/light mode implementation.
+
+---
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furqanjaved1060&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
